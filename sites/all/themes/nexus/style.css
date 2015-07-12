@@ -1157,5 +1157,12 @@ border-left: 1px solid; border-right: 1px solid; height: 40px; margin-left: -36p
   .flex-caption{
     display: none;
   }
+}
+/*-------------------------------------------*
+/* Overrides
+/*-------------------------------------------*/
 
+.field-name-field-lead-image {
+	float: right;
+	padding: 0 0 1em 1em;
 }
