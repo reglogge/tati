@@ -47,8 +47,8 @@ article .links a:visited {
   width: 45px;
 }
 .node-content img {
-  border: solid 1px #e6e4de;
-  padding: 0.5em;
+  border: none;
+  padding: 0 0.5em;
 }
 article .tags,
 .node-content .field-type-taxonomy-term-reference {
